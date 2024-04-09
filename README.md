@@ -1,4 +1,4 @@
-### Hello World! 👋 I'm Guilherme
+### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Guilherme
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siqueira2&theme=github_dark&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siqueira2&theme=github_dark&layout=compact)
