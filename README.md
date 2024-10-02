@@ -3,6 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siqueira2&theme=github_dark&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siqueira2&theme=github_dark&layout=compact)
 
+See my [Gitlab](https://gitlab.com/guilhermeCaju)🦊
+
 ## Technologies
 
 ![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)
@@ -16,4 +18,3 @@
 ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=css3&logoColor=FFFFFF)
 ![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=nextdotjs&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=563D7C&logo=bootstrap&logoColor=FFFFFF)
-
